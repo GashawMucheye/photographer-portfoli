@@ -1,0 +1,18 @@
+{
+  "HomePage": {
+    "title": "Hello world!",
+    "about": "Go to the about page"
+  },
+  "contact": {
+    "signInTitle": "Sign In",
+    "signUpTitle": "Sign Up",
+    "name": "Name",
+    "email": "Email",
+    "password": "Password",
+    "submit": "Submit",
+    "orGoogle": "Sign in with Google",
+    "alreadyHaveAccount": "Already have an account?",
+    "noAccount": "Don't have an account?",
+    "error": "Something went wrong"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "HomePage": {
+    "title": "שלום עולם!",
+    "about": "עבור לדף אודות"
+  },
+  "contact": {
+    "signInTitle": "התחברות",
+    "signUpTitle": "הרשמה",
+    "name": "שם",
+    "email": "אימייל",
+    "password": "סיסמה",
+    "submit": "שלח",
+    "orGoogle": "התחבר עם Google",
+    "alreadyHaveAccount": "כבר יש לך חשבון?",
+    "noAccount": "אין לך חשבון?",
+    "error": "משהו השתבש"
+  }
+}

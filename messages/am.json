@@ -1,0 +1,18 @@
+{
+  "HomePage": {
+    "title": "ሰላም ዓለም!",
+    "about": "ወደ ስለ እኛ ገፅ ይሂዱ"
+  },
+  "contact": {
+    "signInTitle": "መግቢያ",
+    "signUpTitle": "ምዝገባ",
+    "name": "ስም",
+    "email": "ኢሜይል",
+    "password": "የይለፍ ቃል",
+    "submit": "አስገባ",
+    "orGoogle": "በ Google ይግቡ",
+    "alreadyHaveAccount": "አካውንት አለዎት?",
+    "noAccount": "አካውንት የለዎትም?",
+    "error": "አንዳንድ ስህተት ተከስቷል"
+  }
+}
